@@ -4,4 +4,4 @@ Releases of the Open Reflex Unreal client for Windows, installed and updated by 
 
 The client needs your own installed copy of MX vs ATV Reflex: the launcher reads it to make the client's content.
 
-No release has been published yet.
+The releases are on the [Releases](https://github.com/ItZFerret/reflex-unreal-releases/releases) page; the launcher reads them from there.
